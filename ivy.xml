@@ -18,6 +18,7 @@
 	<dependencies>
 		<dependency org="com.qmetry" name="qaf" rev="latest.integration" />
 		<dependency org="com.qmetry" name="qaf-support" rev="latest.integration" />
+		<dependency org="com.qmetry" name="qaf-support-ws" rev="latest.integration" />
 		<dependency org="org.aspectj" name="aspectjtools" rev="1.8.5">
 			<artifact name="aspectjtools" type="jar"></artifact>
 		</dependency>

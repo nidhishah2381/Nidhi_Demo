@@ -1,3 +1,16 @@
 /bin
 /dist
 /test-results
+/LICENSE
+/README.md
+/build.xml
+/dashboard.htm
+/ivy.xml
+/ivysettings.xml
+/license.txt
+/log4j.properties
+/readme.txt
+/test-output/
+/testng.xml
+/dashboard/
+/lib/
