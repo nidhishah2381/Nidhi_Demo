@@ -5,3 +5,4 @@ This is automation project skeleton to start with using ANT + IVY. Please refer 
 If you are using eclipse you should install following plugins.
 * [TestNG](http://testng.org/doc/eclipse.html)
 * [Apache IvyDE plugins](https://ant.apache.org/ivy/ivyde/download.html)
+* push
