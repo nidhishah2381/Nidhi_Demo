@@ -9,7 +9,7 @@
 			<name>org.eclipse.jdt.core.javabuilder</name>
 			<arguments>
 			</arguments>
-		</buildCommand>
+		</buildCommandpush>
 		<buildCommandcomment> 
 			<name>com.qas.bdd.builder</name>
 			<arguments>
