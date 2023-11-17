@@ -10,7 +10,7 @@
 			<arguments>
 			</arguments>
 		</buildCommand>
-		<buildCommand>
+		<buildCommandcomment> 
 			<name>com.qas.bdd.builder</name>
 			<arguments>
 			</arguments>
